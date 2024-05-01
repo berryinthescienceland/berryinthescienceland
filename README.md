@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @berfinsabırlııı
-- 👀 I’m interested in science, watching birds and astronomy 
+- 👀 I’m interested in watching birds and astronomy 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on learn python
 - 📫 How to reach me brnfsbrl@gmail.com
